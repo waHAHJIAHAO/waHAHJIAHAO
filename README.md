@@ -25,17 +25,17 @@
 
 <img src="./images/pzj0p-rlb8j.webp" align="right" width="20%" height="auto" />
 
-* ✍️ I’m a one year postgraduate student from @ [FJNU](https://www.fjnu.edu.cn/), majoring in Information Security.  
+* 🐱 I’m a one year postgraduate student from @ [FJNU](https://www.fjnu.edu.cn/), majoring in Information Security.  
   
 
-* 🤤 I’m interested in **Deep learning**, **AIGC** and **AI for Cybersecurity**.  
+* 🤖 I’m interested in **Deep learning**, **AIGC** and **AI for Cybersecurity**.  
 
-* 📖 I'm learning **Deep Learning** currently.
+* ⌨️ I'm learning **Deep Learning** currently.
   
 * 🏃‍🏊💪 I'm passionate about fitting during my spare times 
   
 
-* ✉️ Feel free to contact me through [email](mailto:allen.yfhuang@gmail.com)!
+* ✉️ If u have any quetions ,contact me through [email](mailto:allen.yfhuang@gmail.com)!
 
 </p>
 
